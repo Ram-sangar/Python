@@ -1,0 +1,20 @@
+hi i am yogi
+ or return 0 if no arguments are given.
+ For floating point numbers, 
+If x is not a number or if base is given,
+or bytearray instance representing an integer literal in the given base. 
+The base defaults to 10. Valid bases are 0 and 2-36.
+ int('0b100', base=0) 4
+Convert a number or string to an integer,
+ If x is a number, return x.__int__(2).
+this truncates towards zero.
+ then x must be a string, bytes, 
+The literal can be preceded by '+' or '-' and be surrounded by whitespace. 
+ Base 0 means to interpret the base from the string as an integer literal. >>>
+hi i am kishore
+ or return 0 if no arguments are given.
+ For floating point numbers, 
+If x is not a number or if base is given,
+or bytearray instance representing an integer literal in the given base. 
+The base defaults to 10. Valid bases are 0 and 2-36.
+ int('0b100', base=0) 4
